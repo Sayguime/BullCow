@@ -1,1 +1,1 @@
-# BullCow
+# Educational project 
